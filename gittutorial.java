@@ -3,4 +3,5 @@ public class gittutorial {
     //追加
     //変更１
     //gitdiff
+    //gitpush
 }
